@@ -89,4 +89,5 @@ body {
 .links span:hover {
     background-color: hsl(75, 94%, 57%);
     cursor: pointer;
+    color: gray;
 }
